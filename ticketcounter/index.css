@@ -1,0 +1,11 @@
+.container{
+    display: grid;
+}
+
+.image{
+    /* height: 720px;
+    width: 1440px; */
+    background-image: url(./robert-tudor--8x6Ffud7Bk-unsplash.jpg);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
